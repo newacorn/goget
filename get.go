@@ -1,3 +1,5 @@
 package goget
 
-func Get() {}
+func Get() {
+	println("v1.0.1")
+}
