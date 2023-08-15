@@ -1,5 +1,5 @@
 package goget
 
 func Get() {
-	println("v1.1.0")
+	println("v1.1.2")
 }
