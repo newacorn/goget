@@ -1,5 +1,8 @@
 package goget
 
+import "github.com/newacorn/depend"
+
 func Get() {
-	println("v1.2.0")
+	depend.Depend()
+	println("v1.2.1")
 }
